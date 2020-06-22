@@ -1,0 +1,841 @@
+{
+    "measured_104": {
+        "number_solutions": 346,
+        "target_name": "rosmarinate",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_64": {
+        "number_solutions": 32,
+        "target_name": "Resveratrol",
+        "gem": "s_cerevisiae_iND750",
+        "topx": 100,
+        "max_steps": 6,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_19": {
+        "number_solutions": 342,
+        "target_name": "2,5-dihydroxybenzoic acid",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_130": {},
+    "measured_128": {
+        "number_solutions": 86,
+        "target_name": "(E,E)-Farnesol",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_114": {
+        "number_solutions": 1,
+        "target_name": "(Z)-biformene",
+        "gem": "s_cerevisiae_iMM904",
+        "topx": 1000,
+        "max_steps": 7,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_53": {
+        "number_solutions": 153,
+        "target_name": "3-hydroxypropanoate",
+        "gem": "e_coli_iAF1260",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_22": {},
+    "measured_20": {
+        "number_solutions": 5,
+        "target_name": "O-Acetyl-L-homoserine",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_68": {},
+    "measured_96": {
+        "number_solutions": 10,
+        "target_name": "malonic acid",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_26": {
+        "number_solutions": 240,
+        "target_name": "benzyl alcohol",
+        "gem": "e_coli_iML1515",
+        "topx": 100,
+        "max_steps": 8,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_94": {
+        "number_solutions": 46,
+        "target_name": "Isobutanol",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_47": {
+        "number_solutions": 297,
+        "target_name": "cis,cis-muconate",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 6,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_67": {
+        "number_solutions": 30,
+        "target_name": "Astaxanthin",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 8,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_92": {
+        "number_solutions": 22,
+        "target_name": "ferulate",
+        "gem": "s_cerevisiae_iND750",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_89": {},
+    "measured_52": {
+        "number_solutions": 12,
+        "target_name": "phenol",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 3,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_33": {
+        "number_solutions": 28,
+        "target_name": "theophylline",
+        "gem": "s_cerevisiae_iMM904",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_70": {},
+    "measured_91": {
+        "number_solutions": 6,
+        "target_name": "ethylene",
+        "gem": "s_cerevisiae_iMM904",
+        "topx": 1000,
+        "max_steps": 3,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_56": {
+        "number_solutions": 2,
+        "target_name": "alpha-Arbutin",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_41": {
+        "number_solutions": 1,
+        "target_name": "4-hydroxymandelic acid",
+        "gem": "s_cerevisiae_iMM904",
+        "topx": 1000,
+        "max_steps": 3,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_17": {},
+    "measured_9": {},
+    "measured_3": {
+        "number_solutions": 2,
+        "target_name": "1,3-propanediol",
+        "gem": "e_coli_iJO1366",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "6,10,16"
+    },
+    "measured_39": {
+        "number_solutions": 44,
+        "target_name": "caffeine",
+        "gem": "s_cerevisiae_iMM904",
+        "topx": 1000,
+        "max_steps": 6,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_110": {
+        "number_solutions": 1,
+        "target_name": "(+)-valencene",
+        "gem": "s_cerevisiae_iMM904",
+        "topx": 1000,
+        "max_steps": 3,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_60": {},
+    "measured_46": {
+        "number_solutions": 79,
+        "target_name": "salicylate",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_99": {
+        "number_solutions": 139,
+        "target_name": "miltiradiene",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 7,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_44": {
+        "number_solutions": 383,
+        "target_name": "pyrogallol",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 8,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_109": {
+        "number_solutions": 6,
+        "target_name": "Geraniol",
+        "gem": "s_cerevisiae_iMM904",
+        "topx": 1000,
+        "max_steps": 3,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_119": {
+        "number_solutions": 1,
+        "target_name": "Limonene",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_43": {
+        "number_solutions": 263,
+        "target_name": "pyrogallol",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 7,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_131": {},
+    "measured_30": {
+        "number_solutions": 12,
+        "target_name": "p-hydroxystyrene",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_36": {
+        "number_solutions": 44,
+        "target_name": "caffeine",
+        "gem": "s_cerevisiae_iMM904",
+        "topx": 1000,
+        "max_steps": 6,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_98": {
+        "number_solutions": 110,
+        "target_name": "manoyl oxide",
+        "gem": "s_cerevisiae_iND750",
+        "topx": 1000,
+        "max_steps": 7,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_21": {
+        "number_solutions": 18,
+        "target_name": "Thebaine",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 11,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_34": {
+        "number_solutions": 28,
+        "target_name": "theophylline",
+        "gem": "s_cerevisiae_iMM904",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_45": {
+        "number_solutions": 21,
+        "target_name": "Pentadecane",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_2": {},
+    "measured_10": {
+        "number_solutions": 3,
+        "target_name": "3-methybutanol",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 10,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_117": {
+        "number_solutions": 116,
+        "target_name": "Acrylic acid",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_63": {
+        "number_solutions": 54,
+        "target_name": "Resveratrol",
+        "gem": "s_cerevisiae_iMM904",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_118": {
+        "number_solutions": 1,
+        "target_name": "Triacetate lactone",
+        "gem": "s_cerevisiae_iMM904",
+        "topx": 1000,
+        "max_steps": 3,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_6": {
+        "number_solutions": 1,
+        "target_name": "N-methylpyrrolinium",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 6,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_58": {},
+    "measured_18": {},
+    "measured_107": {
+        "number_solutions": 337,
+        "target_name": "sclareol",
+        "gem": "s_cerevisiae_iMM904",
+        "topx": 100,
+        "max_steps": 7,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_121": {
+        "number_solutions": 8,
+        "target_name": "Danshensu",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_65": {
+        "number_solutions": 138,
+        "target_name": "beta-Carotene",
+        "gem": "e_coli_iJO1366",
+        "topx": 1000,
+        "max_steps": 6,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_102": {
+        "number_solutions": 11,
+        "target_name": "pyrogallol",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_122": {
+        "number_solutions": 8,
+        "target_name": "Danshensu",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_50": {},
+    "measured_42": {
+        "number_solutions": 11,
+        "target_name": "pyrogallol",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_13": {
+        "number_solutions": 297,
+        "target_name": "cis,cis-muconate",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 6,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_90": {},
+    "measured_35": {
+        "number_solutions": 44,
+        "target_name": "caffeine",
+        "gem": "s_cerevisiae_iMM904",
+        "topx": 1000,
+        "max_steps": 6,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_32": {},
+    "measured_127": {
+        "number_solutions": 5,
+        "target_name": "Pinocembrin",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_105": {
+        "number_solutions": 346,
+        "target_name": "rosmarinate",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_101": {
+        "number_solutions": 49,
+        "target_name": "putrescine",
+        "gem": "e_coli_core_model",
+        "topx": 1000,
+        "max_steps": 3,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_74": {},
+    "measured_80": {
+        "number_solutions": 18,
+        "target_name": "1,3-diaminopropane",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_116": {
+        "number_solutions": 8,
+        "target_name": "Tyrosyl",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 3,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_81": {
+        "number_solutions": 33,
+        "target_name": "(2S)-Eriodictyol",
+        "gem": "e_coli_iJO1366",
+        "topx": 100,
+        "max_steps": 7,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_87": {
+        "number_solutions": 1,
+        "target_name": "(Z)-biformene",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 7,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_16": {},
+    "measured_106": {
+        "number_solutions": 1,
+        "target_name": "(-)-sabinene",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 3,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_48": {},
+    "measured_61": {
+        "number_solutions": 150,
+        "target_name": "Acrylic acid",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 7,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_100": {
+        "number_solutions": 23,
+        "target_name": "Pinosylvin",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_85": {
+        "number_solutions": 16,
+        "target_name": "acetone",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_111": {
+        "number_solutions": 55,
+        "target_name": "4-hydroxy 3-methoxybenzaldehyde",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_93": {
+        "number_solutions": 46,
+        "target_name": "Isobutanol",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_77": {
+        "number_solutions": 318,
+        "target_name": "beta-alanine",
+        "gem": "e_coli_core_model",
+        "topx": 500,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_79": {
+        "number_solutions": 6,
+        "target_name": "n-butanol",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 7,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_27": {},
+    "measured_75": {
+        "number_solutions": 10,
+        "target_name": "garbanzol",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_8": {
+        "number_solutions": 1,
+        "target_name": "Limonene",
+        "gem": "e_coli_iJO1366",
+        "topx": 1000,
+        "max_steps": 8,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_51": {},
+    "measured_86": {
+        "number_solutions": 28,
+        "target_name": "Propanoate",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 6,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_103": {
+        "number_solutions": 98,
+        "target_name": "trans-resveratrol",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_82": {
+        "number_solutions": 515,
+        "target_name": "4-hydroxybutyric acid",
+        "gem": "e_coli_iAF1260",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_95": {
+        "number_solutions": 200,
+        "target_name": "(S)-lactoyl-CoA",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 3,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_62": {
+        "number_solutions": 12,
+        "target_name": "2,3-butanediol",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_49": {},
+    "measured_15": {
+        "number_solutions": 3,
+        "target_name": "1-propanol",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 8,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_132": {
+        "number_solutions": 45,
+        "target_name": "D-Xylonate",
+        "gem": "s_cerevisiae_iMM904",
+        "topx": 1000,
+        "max_steps": 3,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_71": {
+        "number_solutions": 8,
+        "target_name": "mesaconate",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_55": {},
+    "measured_25": {
+        "number_solutions": 55,
+        "target_name": "vanillin",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_126": {
+        "number_solutions": 5,
+        "target_name": "Glutarate",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 6,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_7": {
+        "number_solutions": 1,
+        "target_name": "N-methylpyrrolinium",
+        "gem": "s_cerevisiae_iMM904",
+        "topx": 1000,
+        "max_steps": 6,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_78": {
+        "number_solutions": 318,
+        "target_name": "beta-alanine",
+        "gem": "e_coli_core_model",
+        "topx": 500,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_120": {
+        "number_solutions": 2,
+        "target_name": "Perillyl alcohol",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_73": {},
+    "measured_59": {
+        "number_solutions": 16,
+        "target_name": "bisdemethoxycurcumin",
+        "gem": "p_putida_iJN746",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_1": {
+        "number_solutions": 1,
+        "target_name": "2-amino-1,3-propanediol",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_124": {
+        "number_solutions": 46,
+        "target_name": "2,3-Butanediol",
+        "gem": "s_cerevisiae_iND750",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_84": {
+        "number_solutions": 181,
+        "target_name": "4-hydroxycoumarin",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 6,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_54": {},
+    "measured_37": {
+        "number_solutions": 44,
+        "target_name": "caffeine",
+        "gem": "s_cerevisiae_iMM904",
+        "topx": 1000,
+        "max_steps": 6,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_11": {
+        "number_solutions": 4,
+        "target_name": "poly-(3-hydroxybutyrate)",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_66": {
+        "number_solutions": 30,
+        "target_name": "Astaxanthin",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 8,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_38": {
+        "number_solutions": 44,
+        "target_name": "caffeine",
+        "gem": "s_cerevisiae_iMM904",
+        "topx": 1000,
+        "max_steps": 6,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_88": {
+        "number_solutions": 23,
+        "target_name": "caffeic acid",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_112": {
+        "number_solutions": 55,
+        "target_name": "4-Hydroxy 3-methoxybenzaldehyde",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_123": {
+        "number_solutions": 1,
+        "target_name": "Ginsenosides",
+        "gem": "s_cerevisiae_iMM904",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_108": {
+        "number_solutions": 6,
+        "target_name": "Geraniol",
+        "gem": "s_cerevisiae_iMM904",
+        "topx": 1000,
+        "max_steps": 3,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_5": {},
+    "measured_28": {},
+    "measured_24": {
+        "number_solutions": 5,
+        "target_name": "Glutaric acid",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 6,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_29": {
+        "number_solutions": 8,
+        "target_name": "mesaconic acid",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_14": {
+        "number_solutions": 3,
+        "target_name": "1-propanol",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 8,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_115": {
+        "number_solutions": 111,
+        "target_name": "Squalene",
+        "gem": "b_subtilis_iYO844",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_97": {
+        "number_solutions": 82,
+        "target_name": "monool",
+        "gem": "s_cerevisiae_iND750",
+        "topx": 1000,
+        "max_steps": 7,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_129": {
+        "number_solutions": 86,
+        "target_name": "(2Z,6E)-farnesol",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_57": {},
+    "measured_76": {
+        "number_solutions": 804,
+        "target_name": "Reticuline",
+        "gem": "s_cerevisiae_iMM904",
+        "topx": 1000,
+        "max_steps": 9,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_4": {
+        "number_solutions": 1,
+        "target_name": "(S)-limonene",
+        "gem": "e_coli_iJO1366",
+        "topx": 1000,
+        "max_steps": 9,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_83": {
+        "number_solutions": 12,
+        "target_name": "4-coumarate",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 3,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_113": {
+        "number_solutions": 18,
+        "target_name": "xylitol",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 3,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_40": {},
+    "measured_23": {},
+    "measured_31": {
+        "number_solutions": 39,
+        "target_name": "lycopene",
+        "gem": "s_cerevisiae_iMM904",
+        "topx": 100,
+        "max_steps": 6,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_72": {
+        "number_solutions": 4,
+        "target_name": "ectoine",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 5,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_125": {
+        "number_solutions": 80,
+        "target_name": "5-Aminovaleric acid",
+        "gem": "e_coli_iML1515",
+        "topx": 1000,
+        "max_steps": 4,
+        "rr_diameters": "2,4,6,8,10,12,14,16"
+    },
+    "measured_12": {},
+    "measured_69": {}
+}

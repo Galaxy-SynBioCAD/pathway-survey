@@ -1,0 +1,3 @@
+Pathway Name,Reaction,Global Score,Rule ID,Reaction Rule,Rule Score,dfG_prime_o,dfG_prime_m,dfG_uncert,Normalised dfG_prime_o,Normalised dfG_prime_m,Normalised dfG_uncert,FBA,FBA Flux,FBA Normalised Flux,UniProt,Selenzyme Score
+E,pathway,,,,,-933.3797098864692,-933.3797098864692,10.074362237948854,,,,fba_obj_biomass;fba_obj_fraction,1.6317690198317039;1.6666666666665955,,,
+E,RP1,,RR-02-9163c3d5a0aa70f3-16-F,[H]OC(=O)C([H])(O[H])c1c([H])c([H])c(O[H])c([H])c1[H].O=C=O>>O=O.[H]OC(=O)C(=O)C([H])([H])c1c([H])c([H])c(O[H])c([H])c1[H],0.8251685759721918,-933.3797098864692,-933.3797098864692,10.074362237948854,,,,fba_obj_biomass;fba_obj_fraction,0.0;1.6666666666665955,,,
